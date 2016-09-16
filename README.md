@@ -1,5 +1,4 @@
 #PHP模拟百度搜索联想词简单例子
 
----
-###Demo
+##Demo
 airanime.applinzi.com
